@@ -4,7 +4,7 @@ app    PublicRobo1                  =   AutoSystem TestRobo1
        email                        =  coreliuorg@gmail.com                                                                                   
        emphasis                     =  15                                                                                                    
        icon                         =  IMG_5718.jpg 
-       logoText                     =  Public Robo 1, by Coreliu
+       logoText                     =  Public Robo1, from Coreliu
        
        
 photo  Robo.arrives                 =  Robo arrives for walkabout                                                                                                     
