@@ -1,4 +1,4 @@
-app    PublicRobo1                  =  AutoSystem TestRobo1                                                                   
+app    PublicRobo1                  =   AutoSystem TestRobo1                                                                   
        author                       =  GforC1                                                                                            
        description                  =  First test of reconfigured automated system 180218                                                      
        email                        =  coreliuorg@gmail.com                                                                                   
