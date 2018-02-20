@@ -1,5 +1,5 @@
-app    PublicRobo1                  =  Robots oh la la                                                                   
-       author                       =  GforC1                                                                                            
+app    PublicRobo1                  =  Robots Invade                                                                   
+       author                       =  OnCoreliu1                                                                                            
        description                  =  Adjustment 190218 Robo1                                                      
        email                        =  coreliuorg@gmail.com                                                                             
        emphasis                     =  15                                                                                               
@@ -7,12 +7,12 @@ app    PublicRobo1                  =  Robots oh la la
        logoText                     =  Public Robo1, Coreliu
        
        
-photo  Robo.arrives                 =  Let's help mum                                                                           
+photo  Robo.arrives                 =  Robo arrives for a walkabout                                                                           
        url                          =  IMG_5712.jpg                                                                                              
 fact   Robo.arrives.1               =  He arrives to unsuspecting crowd                                                                                       
 fact   Robo.arrives.2               =  Walkabouts prevent rust                                                                                                                                   
 
-Photo  TommyC                       = Hmm, a Tommy Cooper impersonation
+Photo  TommyC                       = A Tommy Cooper impersonation
        url                          = IMG_5715.jpg
 fact   TommyC.1                     = Robo does a good Tommy Cooper
 fact   TommyC.2                     = Robo tries to please crowd with impersonation
