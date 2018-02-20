@@ -1,13 +1,13 @@
-app    PublicRobo1                  =  Robots Invade London                                                                   
+app    PublicRobo1                  =  Robots oh la la                                                                   
        author                       =  GforC1                                                                                            
        description                  =  Adjustment 190218 Robo1                                                      
-       email                        =  coreliuorg@gmail.com                                                                                   
-       emphasis                     =  15                                                                                                    
+       email                        =  coreliuorg@gmail.com                                                                             
+       emphasis                     =  15                                                                                               
        icon                         =  IMG_5718.jpg 
        logoText                     =  Public Robo1, Coreliu
        
        
-photo  Robo.arrives                 =  Robo arrives for walkabout                                                                                                     
+photo  Robo.arrives                 =  Let's help mum                                                                           
        url                          =  IMG_5712.jpg                                                                                              
 fact   Robo.arrives.1               =  He arrives to unsuspecting crowd                                                                                       
 fact   Robo.arrives.2               =  Walkabouts prevent rust                                                                                                                                   
