@@ -1,4 +1,4 @@
-app    PublicRobo1                  =  Robots Invade London                                                                    
+app    PublicRobo1                  =  Robots Invade Glasgow                                                                   
        author                       =  OnCoreliu1                                                                                            
        description                  =  v050418 Robo1                                                      
        email                        =  coreliuorg@gmail.com                                                                             
