@@ -4,7 +4,7 @@ app    PublicRobo1                  =  Robots Invade
        email                        =  coreliuorg@gmail.com                                                                             
        emphasis                     =  15                                                                                               
        icon                         =  IMG_5718.jpg 
-       logoText                     =  Public Robo1, Coreliu
+       logoText                     =  Public Robo 1, Coreliu
        
        
 photo  Robo.arrives                 =  Robo arrives on a nice sunny day                                                                          
@@ -30,7 +30,7 @@ fact   HowDoesHeLook.2              = Even robots want to look good on social me
 photo  Ice.cream                    = Considers stealing an ice cream
        url                          = IMG_5716.jpg
 fact   Ice.cream.1                  = That ice cream looks so good
-fact   Ice.cream.2                  = Processing pack computes whether it's ok to take the ice cream
+fact   Ice.cream.2                  = Processing pack computes whether it's ok to steal the ice cream
 
 
 
