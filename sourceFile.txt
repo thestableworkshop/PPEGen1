@@ -7,7 +7,7 @@ app    PublicRobo1                  =  Robots Invade London
        logoText                     =  Public Robo 1, Coreliu
        
        
-photo  Robo.arrives                 =  The Robo arrives on a warm sunny day                                                                          
+photo  Robo.arrives                 =  Robo arrives                                                                          
        url                          =  IMG_5712.jpg                                                                                              
 fact   Robo.arrives.1               =  An unsuspecting crowd                                                                                       
 fact   Robo.arrives.2               =  Walkabouts prevent rust                                                                                                                                   
