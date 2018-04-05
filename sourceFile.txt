@@ -1,4 +1,4 @@
-app    PublicRobo1                  =  Robots Invade Glasgow                                                                   
+app    PublicRobo1                  =  Robots Invade London                                                                   
        author                       =  OnCoreliu1                                                                                            
        description                  =  v050418 Robo1                                                      
        email                        =  coreliuorg@gmail.com                                                                             
@@ -29,7 +29,7 @@ fact   HowDoesHeLook.2              = Even robots want to look good on social me
 
 photo  Ice.cream                    = Considers stealing an ice cream
        url                          = IMG_5716.jpg
-fact   Ice.cream.1                  = That ice cream looks so good
+fact   Ice.cream.1                  = That ice cream looks good
 fact   Ice.cream.2                  = Processing pack computes whether it's ok to steal the ice cream
 
 
