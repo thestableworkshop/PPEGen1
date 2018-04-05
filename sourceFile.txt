@@ -1,15 +1,15 @@
-app    PublicRobo1                  =  Robots Invade London                                                                   
+app    PublicRobo1                  =  Robots Invade                                                                    
        author                       =  OnCoreliu1                                                                                            
-       description                  =  Adjustment 190218 Robo1                                                      
+       description                  =  v050418 Robo1                                                      
        email                        =  coreliuorg@gmail.com                                                                             
        emphasis                     =  15                                                                                               
        icon                         =  IMG_5718.jpg 
-       logoText                     =  Public Robo1, by Coreliu
+       logoText                     =  Public Robo1, Coreliu
        
        
-photo  Robo.arrives                 =  Arrival of a robot                                                                           
+photo  Robo.arrives                 =  Robo arrives on a sunny day                                                                          
        url                          =  IMG_5712.jpg                                                                                              
-fact   Robo.arrives.1               =  He arrives to unsuspecting crowd                                                                                       
+fact   Robo.arrives.1               =  An unsuspecting crowd                                                                                       
 fact   Robo.arrives.2               =  Walkabouts prevent rust                                                                                                                                   
 
 Photo  TommyC                       = A Tommy Cooper impersonation
@@ -25,11 +25,11 @@ fact   Poses.2                      = Always happy to have his photo taken
 photo  HowDoesHeLook                = Robo asks to see how he looks
        url                          = IMG_5720.jpg
 fact   HowDoesHeLook.1              = Wonders if his photo needs retouching
-fact   HowDoesHeLook.2              = Even robots have to make sure they look good on social media
+fact   HowDoesHeLook.2              = Even robots want to look good on social media
 
 photo  Ice.cream                    = Considers stealing an ice cream
        url                          = IMG_5716.jpg
-fact   Ice.cream.1                  = Ice cream looks so good
+fact   Ice.cream.1                  = That ice cream looks so good
 fact   Ice.cream.2                  = Processing pack computes whether it's ok to take the ice cream
 
 
