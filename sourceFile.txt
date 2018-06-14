@@ -1,44 +1,77 @@
-app    PublicRobo1                  =  Robots Invade London                                                                   
-       author                       =  OnCoreliu1                                                                                            
-       description                  =  v050418 Robo1                                                      
-       email                        =  coreliuorg@gmail.com                                                                             
+app    PPEGen1                      =  Personal Protective Equipment (General)                                                                  
+       author                       =  thestableworkshop                                                                                            
+       description                  =  v01                                                      
+       email                        =  admin@thestableworkshop.co.uk                                                                             
        emphasis                     =  15                                                                                               
-       icon                         =  IMG_5718.jpg 
-       logoText                     =  Public Robo 1, Coreliu
+       icon                         =  IMG_8161.jpg 
+       logoText                     =  PPEGen1, Coreliu
        
        
-photo  Robo.arrives                 =  Robo arrives                                                                          
-       url                          =  IMG_5712.jpg                                                                                              
-fact   Robo.arrives.1               =  An unsuspecting crowd                                                                                       
-fact   Robo.arrives.2               =  Walkabouts prevent rust                                                                                                                                   
+photo  GenProtBoots                 =  General purpose, general labour protective boots                                                                       
+       url                          =  IMG_8161.jpg                                                                                              
+fact   GenProtBoots.1               =  Multi-purpose boots with steel toe caps                                                                                      
+fact   GenProtBoots.2               =  General labouring boots protect feet from crushing                                                                                                                                
 
-Photo  TommyC                       = A Tommy Cooper impersonation
-       url                          = IMG_5715.jpg
-fact   TommyC.1                     = Robo does a good Tommy Cooper
-fact   TommyC.2                     = Robo tries to please crowd with impersonation
+Photo  Trainers                     = Light-weight protective trainers
+       url                          = IMG_8163.jpg
+fact   Trainers.1                   = Steel toe cap trainers
+fact   Trainers.2                   = Protective trainers for indoor use
 
-photo  Poses                        = Robo poses
-       url                          = IMG_5718.jpg
-fact   Poses.1                      = He likes to pose and take selfies
-fact   Poses.2                      = Always happy to have his photo taken
+photo  BlackTrousers                = Heavy-duty trousers
+       url                          = IMG_8165.jpg
+fact   BlackTrousers.1              = Abrasion-resistant trousers
+fact   BlackTrousers.2              = Protective trousers with many pockets
 
-photo  HowDoesHeLook                = Robo asks to see how he looks
-       url                          = IMG_5720.jpg
-fact   HowDoesHeLook.1              = Wonders if his photo needs retouching
-fact   HowDoesHeLook.2              = Even robots want to look good on social media
+photo  HiVisJacket                  = High visibility all-weather bomber jacket
+       url                          = IMG_8166.jpg
+fact   HiVisJacket.1                = Waterproof high-visability jackets can be seen in poor light
+fact   HiVisJacket.2                = Check hi-vis jackets conform to relevant health and safety directives
 
-photo  Ice.cream                    = Considers stealing an ice cream
-       url                          = IMG_5716.jpg
-fact   Ice.cream.1                  = That ice cream looks good
-fact   Ice.cream.2                  = Processing pack computes whether it's ok to steal the ice cream
+photo  RiggerBoots                  = Waterproof Riggers boots
+       url                          = IMG_8168.jpg
+fact   RiggersBoots.1               = Heavy-duty, anti-crush Riggers boots
+fact   RiggersBoots.2               = Boots for groundwork and laying concrete
+
+photo  BlackTrousers                = Heavy-duty trousers
+       url                          = IMG_8165.jpg
+fact   BlackTrousers.1              = Abrasion-resistant trousers
+fact   BlackTrousers.2              = Protective trousers with many pockets
+
+photo  CreamGloves                  = Leather anti-abrasion gloves
+       url                          = IMG_8200.jpg
+fact   CreamGloves.1                = Heavy-duty leather construction gloves
+fact   CreamGloves.2                = For lifting heavy and abrasive materials
+
+photo  GreyGloves                   = Protect hands from sharp tools and materials
+       url                          = IMG_8209.jpg
+fact   GreyGloves.1                 = Cut resistant gloves
+fact   GreyGloves.2                 = Protect hands from exposure to liquid chemicals
+
+photo  DustMask                     = Dust mask
+       url                          = IMG_8202.jpg
+fact   DustMask.1                   = Mask to protect from particles
+fact   DustMask.2                   = Get training in how to use dust masks
+fact   DustMask.3                   = Lung protection
+
+photo  EarDefender                  = Ear protection
+       url                          = IMG_8204.jpg
+fact   EarDefender.1                = Protect ears in noisy environments
+fact   EarDefender.2                = Noise protection for use with power tools
+
+photo  Goggles                      = Eye protection
+       url                          = IMG_8205.jpg
+fact   Goggles.1                    = Goggles stop dust and splinters
+fact   Goggles.2                    = Goggles stop corrosive substances
+
+photo  Tabard                       = High-visibility tabard
+       url                          = IMG_8208.jpg
+fact   Tabard.1                     = To be worn over clothes
+fact   Tabard.2                     = Light-weight visibility wear
+
+photo  HardHat                      = Head protection
+       url                          = IMG_8262.jpg
+fact   HardHat.1                    = All hard hats are colour-coded
+fact   HardHat.2                    = In UK, yellow hard hats for manual workers
 
 
-
-
-
-
-
-
-
-
-       
+   
