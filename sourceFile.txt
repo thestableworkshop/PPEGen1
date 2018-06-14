@@ -32,7 +32,7 @@ photo  BlackTrousers                = Heavy-duty trousers
 fact   BlackTrousers.1              = Abrasion-resistant trousers
 fact   BlackTrousers.2              = Protective trousers with many pockets
 
-photo  CreamGloves                  = Leather anti-abrasion gloves
+photo  CreamGloves                   = Leather anti-abrasion gloves
        url                          = IMG_8200.jpg
 fact   CreamGloves.1                = Heavy-duty leather construction gloves
 fact   CreamGloves.2                = For lifting heavy and abrasive materials
