@@ -1,2 +1,2 @@
-# PublicRobo1
-Retest system setup config using public repo, with Robo
+# PPEGen1
+Retest system setup config using PublicRobo1 converting to PPEGen1
