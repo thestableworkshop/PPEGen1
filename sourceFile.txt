@@ -17,17 +17,12 @@ Photo  Trainers                     = Light-weight protective trainers
 fact   Trainers.1                   = Steel toe cap trainers
 fact   Trainers.2                   = Protective trainers for indoor use
 
-photo  BlackTrousers                = Heavy-duty trousers
-       url                          = IMG_8165.jpg
-fact   BlackTrousers.1              = Abrasion-resistant trousers
-fact   BlackTrousers.2              = Protective trousers with many pockets
-
 photo  HiVisJacket                  = High visibility all-weather bomber jacket
        url                          = IMG_8166.jpg
 fact   HiVisJacket.1                = Waterproof high-visability jackets can be seen in poor light
 fact   HiVisJacket.2                = Check hi-vis jackets conform to relevant health and safety directives
 
-photo  RiggerBoots                  = Waterproof Riggers boots
+photo  RiggersBoots                 = Waterproof Riggers boots
        url                          = IMG_8168.jpg
 fact   RiggersBoots.1               = Heavy-duty, anti-crush Riggers boots
 fact   RiggersBoots.2               = Boots for groundwork and laying concrete
