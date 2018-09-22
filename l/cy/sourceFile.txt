@@ -1,0 +1,69 @@
+app    PPEGen1.l.cy     =  Cyfarpar diogelu personol (cyffredinol)
+       author           =  thestableworkshop
+       description      =  V01
+       email            =  admin@thestableworkshop.co.uk
+       emphasis         =                                                                                          15
+       icon             =  IMG_8161.jpg
+       logoText         =  PPEGen1, Coreliu
+       language         =  cy
+
+photo  GenProtBoots     =  Pwrpas cyffredinol, esgidiau amddiffyn llafur cyffredinol
+       url              =  IMG_8161.jpg
+fact   GenProtBoots.1   =  Esgidiau aml-bwrpas gyda chapiau dur dur
+fact   GenProtBoots.2   =  Mae esgidiau llafur cyffredinol yn amddiffyn traed rhag mwydo
+
+photo  Trainers         =  Hyfforddwyr amddiffynnol pwysau ysgafn
+       url              =  IMG_8163.jpg
+fact   Trainers.1       =  Hyfforddwyr capiau dur dur
+fact   Trainers.2       =  Hyfforddwyr amddiffynnol ar gyfer defnydd dan do
+
+photo  HiVisJacket      =  Siaced bomer pob tywydd gwelededd uchel
+       url              =  IMG_8166.jpg
+fact   HiVisJacket.1    =  Gellir gweld siacedi gwelededd uchel sy'n ddiddos iawn mewn golau gwael
+fact   HiVisJacket.2    =  Edrychwch ar siacedi hi-vis yn cydymffurfio â chyfarwyddebau iechyd a diogelwch perthnasol
+
+photo  RiggersBoots     =  Esgidiau dwr sy'n dal dŵr
+       url              =  IMG_8168.jpg
+fact   RiggersBoots.1   =  Esgidiau trwm, rhwystrau gwrth-crush
+fact   RiggersBoots.2   =  Esgidiau ar gyfer gwaith tir a choncrid gosod
+
+photo  BlackTrousers    =  Trowsus trwm ar ddyletswydd
+       url              =  IMG_8165.jpg
+fact   BlackTrousers.1  =  Trowsus gwrth-ymwrthedd
+fact   BlackTrousers.2  =  Trowsus amddiffynnol gyda llawer o bocedi
+
+photo  CreamGloves      =  Menig gwrth-abrasiad lledr
+       url              =  IMG_8200.jpg
+fact   CreamGloves.1    =  Menig adeiladu lledr ar ddyletswydd trwm
+fact   CreamGloves.2    =  I godi deunyddiau trwm a sgraffiniol
+
+photo  GreyGloves       =  Gwarchod dwylo o offer a deunyddiau miniog
+       url              =  IMG_8209.jpg
+fact   GreyGloves.1     =  Torri menig gwrthsefyll
+fact   GreyGloves.2     =  Amddiffyn dwylo rhag dod i gysylltiad â chemegau hylifol
+
+photo  DustMask         =  Mwgwd llwch
+       url              =  IMG_8202.jpg
+fact   DustMask.1       =  Mwgwd i amddiffyn rhag gronynnau
+fact   DustMask.2       =  Cael hyfforddiant ar sut i ddefnyddio masgiau llwch
+fact   DustMask.3       =  Amddiffyn yr ysgyfaint
+
+photo  EarDefender      =  Diogelu'r glust
+       url              =  IMG_8204.jpg
+fact   EarDefender.1    =  Gwarchod clustiau mewn amgylcheddau swnllyd
+fact   EarDefender.2    =  Diogelwch sŵn i'w ddefnyddio gydag offer pŵer
+
+photo  Goggles          =  Amddiffyn llygad
+       url              =  IMG_8205.jpg
+fact   Goggles.1        =  Mae gogls yn stopio llwch ac ysbwriel
+fact   Goggles.2        =  Mae glolau yn atal sylweddau cyrydol
+
+photo  Tabard           =  Tabard gwelededd uchel
+       url              =  IMG_8208.jpg
+fact   Tabard.1         =  I'w wisgo dros ddillad
+fact   Tabard.2         =  Gwisgo gwelededd pwysau ysgafn
+
+photo  HardHat          =  Amddiffyn pen
+       url              =  IMG_8262.jpg
+fact   HardHat.1        =  Mae'r holl hetiau caled yn godau lliw
+fact   HardHat.2        =  Yn uk, hetiau caled melyn i weithwyr llaw
