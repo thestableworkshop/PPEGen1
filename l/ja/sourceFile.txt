@@ -1,0 +1,69 @@
+app    PPEGen1.l.ja     =  個人用保護具（一般）
+       author           =  thestableworkshop
+       description      =  V01
+       email            =  admin@thestableworkshop.co.uk
+       emphasis         =                              15
+       icon             =  IMG_8161.jpg
+       logoText         =  PPEGen1, Coreliu
+       language         =  ja
+
+photo  GenProtBoots     =  汎用、一般労働保護ブーツ
+       url              =  IMG_8161.jpg
+fact   GenProtBoots.1   =  スチールトゥキャップ付き多目的ブーツ
+fact   GenProtBoots.2   =  足を粉砕から保護する一般的な手袋
+
+photo  Trainers         =  軽量保護トレーナー
+       url              =  IMG_8163.jpg
+fact   Trainers.1       =  スチールトゥーキャップトレーナー
+fact   Trainers.2       =  屋内用保護訓練士
+
+photo  HiVisJacket      =  視界の良い全天候型ボンバージャケット
+       url              =  IMG_8166.jpg
+fact   HiVisJacket.1    =  防水性の高い視認性のジャケットは貧弱な光で見ることができます
+fact   HiVisJacket.2    =  健康と安全に関する指令に適合しているかどうかを確認する
+
+photo  RiggersBoots     =  防水リグーツブーツ
+       url              =  IMG_8168.jpg
+fact   RiggersBoots.1   =  ヘビーデューティ、アンチクラッシュリガーブーツ
+fact   RiggersBoots.2   =  土木工事と敷設用のブーツ
+
+photo  BlackTrousers    =  丈夫なズボン
+       url              =  IMG_8165.jpg
+fact   BlackTrousers.1  =  耐摩耗性のズボン
+fact   BlackTrousers.2  =  多くのポケットを備えた保護ズボン
+
+photo  CreamGloves      =  革の耐摩耗手袋
+       url              =  IMG_8200.jpg
+fact   CreamGloves.1    =  丈夫な革製の手袋
+fact   CreamGloves.2    =  重い研磨材を持ち上げる
+
+photo  GreyGloves       =  鋭い工具や材料から手を保護する
+       url              =  IMG_8209.jpg
+fact   GreyGloves.1     =  耐切断手袋
+fact   GreyGloves.2     =  手を液体薬品への暴露から保護する
+
+photo  DustMask         =  防塵マスク
+       url              =  IMG_8202.jpg
+fact   DustMask.1       =  パーティクルから保護するためのマスク
+fact   DustMask.2       =  ダストマスクを使用する方法のトレーニングを受ける
+fact   DustMask.3       =  肺保護
+
+photo  EarDefender      =  耳の保護
+       url              =  IMG_8204.jpg
+fact   EarDefender.1    =  騒々しい環境で耳を保護する
+fact   EarDefender.2    =  電動工具用のノイズ保護
+
+photo  Goggles          =  目の保護
+       url              =  IMG_8205.jpg
+fact   Goggles.1        =  ゴーグルはほこりや破片を止める
+fact   Goggles.2        =  ゴーグルは腐食性物質を止める
+
+photo  Tabard           =  視認性の高いタブ譜
+       url              =  IMG_8208.jpg
+fact   Tabard.1         =  衣服に着用する
+fact   Tabard.2         =  軽量視認性の摩耗
+
+photo  HardHat          =  頭部保護
+       url              =  IMG_8262.jpg
+fact   HardHat.1        =  すべてのハード・ハットは色分けされています
+fact   HardHat.2        =  英国では、手作業労働者のための黄色のハード帽子
