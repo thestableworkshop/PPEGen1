@@ -1,0 +1,69 @@
+app    PPEGen1.l.pt     =  Equipamentos de proteção individual (geral)
+       author           =  thestableworkshop
+       description      =  V01
+       email            =  admin@thestableworkshop.co.uk
+       emphasis         =                                                                                             15
+       icon             =  IMG_8161.jpg
+       logoText         =  PPEGen1, Coreliu
+       language         =  pt
+
+photo  GenProtBoots     =  Botas de proteção geral para uso geral em trabalho
+       url              =  IMG_8161.jpg
+fact   GenProtBoots.1   =  Botas multiusos com biqueira de aço
+fact   GenProtBoots.2   =  Botas de trabalho gerais protegem os pés contra o esmagamento
+
+photo  Trainers         =  Leves formadores de proteção
+       url              =  IMG_8163.jpg
+fact   Trainers.1       =  Formadores de biqueira de aço
+fact   Trainers.2       =  Aparelhos de protecção para uso interior
+
+photo  HiVisJacket      =  Jaqueta bomber de alta visibilidade para todos os climas
+       url              =  IMG_8166.jpg
+fact   HiVisJacket.1    =  Jaquetas impermeáveis ​​de alta visibilidade podem ser vistas com pouca luz
+fact   HiVisJacket.2    =  Verificar as jaquetas hi-vis em conformidade com as diretivas de saúde e segurança relevantes
+
+photo  RiggersBoots     =  Botas de riggers à prova d'água
+       url              =  IMG_8168.jpg
+fact   RiggersBoots.1   =  Botas de riggers anti-esmagamento para serviço pesado
+fact   RiggersBoots.2   =  Botas para fundações e colocação de betão
+
+photo  BlackTrousers    =  Calças pesadas
+       url              =  IMG_8165.jpg
+fact   BlackTrousers.1  =  Calças resistentes à abrasão
+fact   BlackTrousers.2  =  Calça protetora com muitos bolsos
+
+photo  CreamGloves      =  Luvas de couro anti-abrasão
+       url              =  IMG_8200.jpg
+fact   CreamGloves.1    =  Luvas de construção de couro resistentes
+fact   CreamGloves.2    =  Para levantar materiais pesados ​​e abrasivos
+
+photo  GreyGloves       =  Proteger as mãos de ferramentas e materiais afiados
+       url              =  IMG_8209.jpg
+fact   GreyGloves.1     =  Luvas resistentes ao corte
+fact   GreyGloves.2     =  Proteja as mãos da exposição a produtos químicos líquidos
+
+photo  DustMask         =  Máscara de pó
+       url              =  IMG_8202.jpg
+fact   DustMask.1       =  Máscara para proteger de partículas
+fact   DustMask.2       =  Obter treinamento em como usar máscaras de poeira
+fact   DustMask.3       =  Proteção pulmonar
+
+photo  EarDefender      =  Proteçao de orelha
+       url              =  IMG_8204.jpg
+fact   EarDefender.1    =  Proteger as orelhas em ambientes ruidosos
+fact   EarDefender.2    =  Proteção contra ruídos para uso com ferramentas elétricas
+
+photo  Goggles          =  Protetor ocular
+       url              =  IMG_8205.jpg
+fact   Goggles.1        =  Óculos de proteção contra poeira e lascas
+fact   Goggles.2        =  Óculos de proteção para substâncias corrosivas
+
+photo  Tabard           =  Tabardo de alta visibilidade
+       url              =  IMG_8208.jpg
+fact   Tabard.1         =  Para ser usado sobre roupas
+fact   Tabard.2         =  Desgaste de visibilidade leve
+
+photo  HardHat          =  Proteção de cabeça
+       url              =  IMG_8262.jpg
+fact   HardHat.1        =  Todos os capacetes são codificados por cores
+fact   HardHat.2        =  No Reino Unido, capacetes amarelos para trabalhadores manuais
