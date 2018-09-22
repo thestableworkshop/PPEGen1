@@ -1,0 +1,69 @@
+app    PPEGen1.l.ru     =  Средства индивидуальной защиты (общие)
+       author           =  thestableworkshop
+       description      =  V01
+       email            =  admin@thestableworkshop.co.uk
+       emphasis         =                                                                                                      15
+       icon             =  IMG_8161.jpg
+       logoText         =  PPEGen1, Coreliu
+       language         =  ru
+
+photo  GenProtBoots     =  Общего назначения, общие защитные рабочие сапоги
+       url              =  IMG_8161.jpg
+fact   GenProtBoots.1   =  Многоцелевые сапоги со стальными носками
+fact   GenProtBoots.2   =  Общие рабочие сапоги защищают ноги от дробления
+
+photo  Trainers         =  Легкие защитные тренеры
+       url              =  IMG_8163.jpg
+fact   Trainers.1       =  Тренажеры из нержавеющей стали
+fact   Trainers.2       =  Защитные тренажеры для использования внутри помещений
+
+photo  HiVisJacket      =  Высокопотенциальная всесезонная куртка бомбардировщика
+       url              =  IMG_8166.jpg
+fact   HiVisJacket.1    =  Водонепроницаемые куртки с высокой видимостью можно увидеть в плохом свете
+fact   HiVisJacket.2    =  Проверьте рубашки hi-vis, соответствующие соответствующим директивам по охране здоровья и безопасности
+
+photo  RiggersBoots     =  Водонепроницаемые сапоги
+       url              =  IMG_8168.jpg
+fact   RiggersBoots.1   =  Сапоги для тяжелых условий работы
+fact   RiggersBoots.2   =  Сапоги для земляных работ и укладки бетона
+
+photo  BlackTrousers    =  Тяжелые брюки
+       url              =  IMG_8165.jpg
+fact   BlackTrousers.1  =  Стойкие к истиранию брюки
+fact   BlackTrousers.2  =  Защитные брюки со многими карманами
+
+photo  CreamGloves      =  Кожаные антиабразивные перчатки
+       url              =  IMG_8200.jpg
+fact   CreamGloves.1    =  Перчатки из сверхпрочной кожи
+fact   CreamGloves.2    =  Для подъема тяжелых и абразивных материалов
+
+photo  GreyGloves       =  Защищать руки от острых инструментов и материалов
+       url              =  IMG_8209.jpg
+fact   GreyGloves.1     =  Устойчивые к перчатке
+fact   GreyGloves.2     =  Защищать руки от воздействия жидких химических веществ
+
+photo  DustMask         =  Респиратор
+       url              =  IMG_8202.jpg
+fact   DustMask.1       =  Маски для защиты от частиц
+fact   DustMask.2       =  Научиться использовать пылевые маски
+fact   DustMask.3       =  Защита легких
+
+photo  EarDefender      =  Защита ушей
+       url              =  IMG_8204.jpg
+fact   EarDefender.1    =  Защищать уши в шумных средах
+fact   EarDefender.2    =  Защита от шума для использования с электроинструментом
+
+photo  Goggles          =  Защита глаз
+       url              =  IMG_8205.jpg
+fact   Goggles.1        =  Защитные очки останавливают пыль и осколки
+fact   Goggles.2        =  Защитные очки останавливают коррозионные вещества
+
+photo  Tabard           =  Высокая видимость
+       url              =  IMG_8208.jpg
+fact   Tabard.1         =  Носить поверх одежды
+fact   Tabard.2         =  Легкий видимый износ
+
+photo  HardHat          =  Защита головы
+       url              =  IMG_8262.jpg
+fact   HardHat.1        =  Все жесткие шляпы имеют цветовую маркировку
+fact   HardHat.2        =  В uk, желтые жесткие шляпы для ручных работников
