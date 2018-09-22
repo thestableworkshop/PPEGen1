@@ -1,0 +1,69 @@
+app    PPEGen1.l.tr     =  Kişisel koruyucu ekipman (genel)
+       author           =  thestableworkshop
+       description      =  V01
+       email            =  admin@thestableworkshop.co.uk
+       emphasis         =                                                                                     15
+       icon             =  IMG_8161.jpg
+       logoText         =  PPEGen1, Coreliu
+       language         =  tr
+
+photo  GenProtBoots     =  Genel amaçlı, genel iş koruyucu botlar
+       url              =  IMG_8161.jpg
+fact   GenProtBoots.1   =  Çelik burunlu çok amaçlı bot
+fact   GenProtBoots.2   =  Genel emekleme botları ayakları ezilmekten korur
+
+photo  Trainers         =  Hafif koruyucu antrenörler
+       url              =  IMG_8163.jpg
+fact   Trainers.1       =  Çelik burunlu kaput eğitmenleri
+fact   Trainers.2       =  Iç mekan kullanımı için koruyucu eğitmenler
+
+photo  HiVisJacket      =  Yüksek görünürlük tüm hava bombardıman ceket
+       url              =  IMG_8166.jpg
+fact   HiVisJacket.1    =  Su geçirmez yüksek görünürlüklü ceketler zayıf ışıkta görülebilir
+fact   HiVisJacket.2    =  Yüksek görüşlü ceketleri kontrol edin, ilgili sağlık ve güvenlik direktiflerine uygun
+
+photo  RiggersBoots     =  Su geçirmez arma çizmeler
+       url              =  IMG_8168.jpg
+fact   RiggersBoots.1   =  Ağır hizmet tipi, anti-crush arma
+fact   RiggersBoots.2   =  Zemin hazırlığı ve beton döşemesi
+
+photo  BlackTrousers    =  Ağır pantolon
+       url              =  IMG_8165.jpg
+fact   BlackTrousers.1  =  Aşınmaya dayanıklı pantolon
+fact   BlackTrousers.2  =  Birçok cepli koruyucu pantolon
+
+photo  CreamGloves      =  Deri aşınma önleyici eldiven
+       url              =  IMG_8200.jpg
+fact   CreamGloves.1    =  Ağır deri inşaat eldivenleri
+fact   CreamGloves.2    =  Ağır ve aşındırıcı materyalleri kaldırmak için
+
+photo  GreyGloves       =  Elleri keskin alet ve malzemelerden korumak
+       url              =  IMG_8209.jpg
+fact   GreyGloves.1     =  Dayanıklı eldivenler kesmek
+fact   GreyGloves.2     =  Ellerinizi sıvı kimyasal maddelere karşı koruyun
+
+photo  DustMask         =  Toz maskesi
+       url              =  IMG_8202.jpg
+fact   DustMask.1       =  Parçacıklardan korumak için maske
+fact   DustMask.2       =  Toz maskelerinin nasıl kullanıldığına dair eğitim alın
+fact   DustMask.3       =  Akciğer koruması
+
+photo  EarDefender      =  Kulak koruması
+       url              =  IMG_8204.jpg
+fact   EarDefender.1    =  Kulakları gürültülü ortamlarda koruyun
+fact   EarDefender.2    =  Elektrikli aletlerle kullanım için gürültü koruması
+
+photo  Goggles          =  Göz koruması
+       url              =  IMG_8205.jpg
+fact   Goggles.1        =  Gözlükler tozu durdurur ve parçalanır
+fact   Goggles.2        =  Gözlük korozif maddeleri durdurmak
+
+photo  Tabard           =  Yüksek görünürlük tabelası
+       url              =  IMG_8208.jpg
+fact   Tabard.1         =  Giysi üzerine giyilmek
+fact   Tabard.2         =  Hafif görünürlük aşınması
+
+photo  HardHat          =  Kafa koruması
+       url              =  IMG_8262.jpg
+fact   HardHat.1        =  Tüm sert şapkalar renk kodlu
+fact   HardHat.2        =  İngiltere'de, manuel çalışanlar için sarı sert şapkalar
