@@ -1,0 +1,69 @@
+app    PPEGen1.l.it     =  Equipaggiamento protettivo personale (generale)
+       author           =  thestableworkshop
+       description      =  V01
+       email            =  admin@thestableworkshop.co.uk
+       emphasis         =                                                                                                15
+       icon             =  IMG_8161.jpg
+       logoText         =  PPEGen1, Coreliu
+       language         =  it
+
+photo  GenProtBoots     =  Scopo generale, stivali protettivi di manodopera generale
+       url              =  IMG_8161.jpg
+fact   GenProtBoots.1   =  Stivali multiuso con puntali in acciaio
+fact   GenProtBoots.2   =  Stivali da lavoro generici proteggono i piedi dallo schiacciamento
+
+photo  Trainers         =  Scarpe da ginnastica protettive leggere
+       url              =  IMG_8163.jpg
+fact   Trainers.1       =  Scarpe da ginnastica in acciaio
+fact   Trainers.2       =  Allenatori protettivi per uso interno
+
+photo  HiVisJacket      =  Bomber per tutte le stagioni ad alta visibilità
+       url              =  IMG_8166.jpg
+fact   HiVisJacket.1    =  Giacche impermeabili ad alta visibilità possono essere viste in condizioni di scarsa luce
+fact   HiVisJacket.2    =  Controllare che le giacche hi-vis siano conformi alle direttive in materia di salute e sicurezza
+
+photo  RiggersBoots     =  Stivali riggers impermeabili
+       url              =  IMG_8168.jpg
+fact   RiggersBoots.1   =  Stivali rigidi per lavori pesanti e antischiacciamento
+fact   RiggersBoots.2   =  Stivali per fondazioni e posa di cemento
+
+photo  BlackTrousers    =  Pantaloni resistenti
+       url              =  IMG_8165.jpg
+fact   BlackTrousers.1  =  Pantaloni antiabrasione
+fact   BlackTrousers.2  =  Pantaloni protettivi con molte tasche
+
+photo  CreamGloves      =  Guanti antiabrasione in pelle
+       url              =  IMG_8200.jpg
+fact   CreamGloves.1    =  Guanti da costruzione in pelle resistente
+fact   CreamGloves.2    =  Per il sollevamento di materiali pesanti e abrasivi
+
+photo  GreyGloves       =  Proteggere le mani da strumenti e materiali taglienti
+       url              =  IMG_8209.jpg
+fact   GreyGloves.1     =  Guanti resistenti al taglio
+fact   GreyGloves.2     =  Proteggere le mani dall'esposizione a sostanze chimiche liquide
+
+photo  DustMask         =  Maschera antipolvere
+       url              =  IMG_8202.jpg
+fact   DustMask.1       =  Maschera per proteggere dalle particelle
+fact   DustMask.2       =  Ottenere l'addestramento su come utilizzare le maschere antipolvere
+fact   DustMask.3       =  Protezione polmonare
+
+photo  EarDefender      =  Cuffie antirumore
+       url              =  IMG_8204.jpg
+fact   EarDefender.1    =  Proteggere le orecchie in ambienti rumorosi
+fact   EarDefender.2    =  Protezione dal rumore per l'uso con utensili elettrici
+
+photo  Goggles          =  Protezione per gli occhi
+       url              =  IMG_8205.jpg
+fact   Goggles.1        =  Occhiali di protezione fermano polvere e schegge
+fact   Goggles.2        =  Gli occhiali di protezione fermano le sostanze corrosive
+
+photo  Tabard           =  Tabellone ad alta visibilità
+       url              =  IMG_8208.jpg
+fact   Tabard.1         =  Da indossare sopra i vestiti
+fact   Tabard.2         =  Usura per visibilità leggera
+
+photo  HardHat          =  Protezione della testa
+       url              =  IMG_8262.jpg
+fact   HardHat.1        =  Tutti gli elmetti sono codificati a colori
+fact   HardHat.2        =  Nel Regno Unito, caschi gialli per i lavoratori manuali
