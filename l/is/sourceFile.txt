@@ -1,0 +1,69 @@
+app    PPEGen1.l.is     =  Persónulegur hlífðarbúnaður (almennt)
+       author           =  thestableworkshop
+       description      =  V01
+       email            =  admin@thestableworkshop.co.uk
+       emphasis         =                                                                                    15
+       icon             =  IMG_8161.jpg
+       logoText         =  PPEGen1, Coreliu
+       language         =  is
+
+photo  GenProtBoots     =  Almennum tilgangi, almennt vinnuafli hlífðarstígvél
+       url              =  IMG_8161.jpg
+fact   GenProtBoots.1   =  Multi-tilgangur stígvél með stáli tá húfur
+fact   GenProtBoots.2   =  Almennar vinnandi stígvél vernda fætur frá algerri
+
+photo  Trainers         =  Léttar hlífðarþjálfarar
+       url              =  IMG_8163.jpg
+fact   Trainers.1       =  Stál tá kappi þjálfara
+fact   Trainers.2       =  Hlífðarþjálfarar til notkunar innanhúss
+
+photo  HiVisJacket      =  Hár-skyggni allur-veður bomber jakka
+       url              =  IMG_8166.jpg
+fact   HiVisJacket.1    =  Vatnsheldur háskyggni jakki má sjá í lélegu ljósi
+fact   HiVisJacket.2    =  Athugaðu hlífðar jakki í samræmi við viðeigandi heilbrigðis- og öryggisleiðbeiningar
+
+photo  RiggersBoots     =  Vatnsheld riggers stígvél
+       url              =  IMG_8168.jpg
+fact   RiggersBoots.1   =  Þungur-skylda, andstæðingur-mylja riggers stígvélum
+fact   RiggersBoots.2   =  Stígvélum til grunnar og leggja steinsteypu
+
+photo  BlackTrousers    =  Þungur buxur
+       url              =  IMG_8165.jpg
+fact   BlackTrousers.1  =  Slitþolnar buxur
+fact   BlackTrousers.2  =  Hlífðar buxur með mörgum vasum
+
+photo  CreamGloves      =  Hanskar úr leðri
+       url              =  IMG_8200.jpg
+fact   CreamGloves.1    =  Þungavörur leðurbyggingarhanskar
+fact   CreamGloves.2    =  Til að lyfta þungu og slípiefni
+
+photo  GreyGloves       =  Vernda hendur frá skörpum verkfærum og efnum
+       url              =  IMG_8209.jpg
+fact   GreyGloves.1     =  Skera ónæmir hanska
+fact   GreyGloves.2     =  Vernda hendur frá váhrifum á fljótandi efni
+
+photo  DustMask         =  Ryk gríma
+       url              =  IMG_8202.jpg
+fact   DustMask.1       =  Grímu til að vernda gegn agnum
+fact   DustMask.2       =  Fá þjálfun í því hvernig á að nota ryk grímur
+fact   DustMask.3       =  Lungnavörn
+
+photo  EarDefender      =  Eyra vernd
+       url              =  IMG_8204.jpg
+fact   EarDefender.1    =  Vernda eyru í hávær umhverfi
+fact   EarDefender.2    =  Hávaða vörn til notkunar með rafmagnsvélum
+
+photo  Goggles          =  Augavernd
+       url              =  IMG_8205.jpg
+fact   Goggles.1        =  Hlífðargleraugu stoppa ryk og flögur
+fact   Goggles.2        =  Hlífðargleraugu hætta að ætandi efni
+
+photo  Tabard           =  Háskerpuborð
+       url              =  IMG_8208.jpg
+fact   Tabard.1         =  Að vera borinn yfir föt
+fact   Tabard.2         =  Klæðast með ljósþyngd
+
+photo  HardHat          =  Höfuðvörn
+       url              =  IMG_8262.jpg
+fact   HardHat.1        =  Allir harðir húfur eru litakóðar
+fact   HardHat.2        =  Í Bretlandi, gulir harðir húfur fyrir handverkamenn
