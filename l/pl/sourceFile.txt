@@ -1,0 +1,69 @@
+app    PPEGen1.l.pl     =  Osobiste wyposażenie ochronne (ogólnie)
+       author           =  thestableworkshop
+       description      =  V01
+       email            =  admin@thestableworkshop.co.uk
+       emphasis         =                                                                        15
+       icon             =  IMG_8161.jpg
+       logoText         =  PPEGen1, Coreliu
+       language         =  pl
+
+photo  GenProtBoots     =  Ogólnego przeznaczenia, ogólne robocze buty ochronne
+       url              =  IMG_8161.jpg
+fact   GenProtBoots.1   =  Buty wielofunkcyjne ze stalowymi noskami
+fact   GenProtBoots.2   =  Ogólne buty robocze chronią stopy przed zmiażdżeniem
+
+photo  Trainers         =  Lekkie tresery ochronne
+       url              =  IMG_8163.jpg
+fact   Trainers.1       =  Podnosniki ze stalowymi noskami
+fact   Trainers.2       =  Trenerzy ochronni do użytku w pomieszczeniach
+
+photo  HiVisJacket      =  Kurtka bomberowa o wysokiej widoczności na każdą pogodę
+       url              =  IMG_8166.jpg
+fact   HiVisJacket.1    =  Wodoodporne kurtki o wysokiej widoczności można oglądać w słabym świetle
+fact   HiVisJacket.2    =  Sprawdź kurtki hi-vis zgodne z odpowiednimi dyrektywami BHP
+
+photo  RiggersBoots     =  Wodoodporne buty rigger
+       url              =  IMG_8168.jpg
+fact   RiggersBoots.1   =  Wytrzymałe, odporne na zgniecenie buty
+fact   RiggersBoots.2   =  Buty do prac ziemnych i układania betonu
+
+photo  BlackTrousers    =  Ciężkie spodnie
+       url              =  IMG_8165.jpg
+fact   BlackTrousers.1  =  Spodnie odporne na ścieranie
+fact   BlackTrousers.2  =  Spodnie ochronne z wieloma kieszeniami
+
+photo  CreamGloves      =  Skórzane rękawice przeciw ścieraniu
+       url              =  IMG_8200.jpg
+fact   CreamGloves.1    =  Wytrzymałe skórzane rękawice budowlane
+fact   CreamGloves.2    =  Do podnoszenia ciężkich i ściernych materiałów
+
+photo  GreyGloves       =  Chroń ręce przed ostrymi narzędziami i materiałami
+       url              =  IMG_8209.jpg
+fact   GreyGloves.1     =  Rękawice odporne na przecięcie
+fact   GreyGloves.2     =  Chroń dłonie przed kontaktem z ciekłymi chemikaliami
+
+photo  DustMask         =  Maska przeciwpyłowa
+       url              =  IMG_8202.jpg
+fact   DustMask.1       =  Maska ​​do ochrony przed cząstkami
+fact   DustMask.2       =  Uzyskać szkolenie w zakresie korzystania z masek przeciwpyłowych
+fact   DustMask.3       =  Ochrona płuc
+
+photo  EarDefender      =  Ochrona na uszy
+       url              =  IMG_8204.jpg
+fact   EarDefender.1    =  Chronić uszy w hałaśliwym otoczeniu
+fact   EarDefender.2    =  Ochrona przed hałasem do użytku z elektronarzędziami
+
+photo  Goggles          =  Ochrona oczu
+       url              =  IMG_8205.jpg
+fact   Goggles.1        =  Gogle zatrzymują pył i drzazgi
+fact   Goggles.2        =  Gogle zatrzymują substancje żrące
+
+photo  Tabard           =  Tabard o wysokiej widoczności
+       url              =  IMG_8208.jpg
+fact   Tabard.1         =  Być noszonym na ubraniach
+fact   Tabard.2         =  Lekka widoczność zużycia
+
+photo  HardHat          =  Ochrona głowy
+       url              =  IMG_8262.jpg
+fact   HardHat.1        =  Wszystkie twarde nakrycia głowy są oznaczone kolorami
+fact   HardHat.2        =  W uk, żółte twarde czapki dla pracowników fizycznych
