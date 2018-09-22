@@ -1,0 +1,69 @@
+app    PPEGen1.l.nl     =  Persoonlijke beschermingsmiddelen (algemeen)
+       author           =  thestableworkshop
+       description      =  V01
+       email            =  admin@thestableworkshop.co.uk
+       emphasis         =                                                                                                                 15
+       icon             =  IMG_8161.jpg
+       logoText         =  PPEGen1, Coreliu
+       language         =  nl
+
+photo  GenProtBoots     =  Algemeen gebruik, algemene arbeidsbeschermende laarzen
+       url              =  IMG_8161.jpg
+fact   GenProtBoots.1   =  Multifunctionele laarzen met stalen neus
+fact   GenProtBoots.2   =  Algemene werklaarzen beschermen de voeten tegen verplettering
+
+photo  Trainers         =  Lichtgewicht beschermende sneakers
+       url              =  IMG_8163.jpg
+fact   Trainers.1       =  Stalen neustrainers
+fact   Trainers.2       =  Beschermende sneakers voor gebruik binnenshuis
+
+photo  HiVisJacket      =  Goed zichtbaar all-weather bomberjack
+       url              =  IMG_8166.jpg
+fact   HiVisJacket.1    =  Waterdichte slechtzichtbare jassen zijn te zien in slecht licht
+fact   HiVisJacket.2    =  Controleer de zichtbaarheid van jasjes in overeenstemming met de relevante gezondheids- en veiligheidsrichtlijnen
+
+photo  RiggersBoots     =  Waterdichte rigger boots
+       url              =  IMG_8168.jpg
+fact   RiggersBoots.1   =  Zware, anti-crush riggers laarzen
+fact   RiggersBoots.2   =  Laarzen voor grondwerk en het leggen van beton
+
+photo  BlackTrousers    =  Zware broek
+       url              =  IMG_8165.jpg
+fact   BlackTrousers.1  =  Slijtvaste broek
+fact   BlackTrousers.2  =  Beschermende broek met veel zakken
+
+photo  CreamGloves      =  Lederen handschoenen tegen schuren
+       url              =  IMG_8200.jpg
+fact   CreamGloves.1    =  Stevige leren handschoenen
+fact   CreamGloves.2    =  Voor het hijsen van zware en schurende materialen
+
+photo  GreyGloves       =  Bescherm de handen tegen scherpe gereedschappen en materialen
+       url              =  IMG_8209.jpg
+fact   GreyGloves.1     =  Snijbestendige handschoenen
+fact   GreyGloves.2     =  Bescherm de handen tegen blootstelling aan vloeibare chemicaliën
+
+photo  DustMask         =  Stof masker
+       url              =  IMG_8202.jpg
+fact   DustMask.1       =  Masker om te beschermen tegen deeltjes
+fact   DustMask.2       =  Krijg training in het gebruik van stofmaskers
+fact   DustMask.3       =  Bescherming van de longen
+
+photo  EarDefender      =  Oor bescherming
+       url              =  IMG_8204.jpg
+fact   EarDefender.1    =  Bescherm oren in lawaaierige omgevingen
+fact   EarDefender.2    =  Geluidsisolatie voor gebruik met elektrisch gereedschap
+
+photo  Goggles          =  Oogbescherming
+       url              =  IMG_8205.jpg
+fact   Goggles.1        =  Bril stopt stof en splinters
+fact   Goggles.2        =  Bril stopt met bijtende stoffen
+
+photo  Tabard           =  Goed zichtbare tabard
+       url              =  IMG_8208.jpg
+fact   Tabard.1         =  Om over kleding te dragen
+fact   Tabard.2         =  Lichtgewicht zichtbaarheid slijtage
+
+photo  HardHat          =  Hoofd bescherming
+       url              =  IMG_8262.jpg
+fact   HardHat.1        =  Alle veiligheidshelmen hebben een kleurcode
+fact   HardHat.2        =  In het Verenigd Koninkrijk, gele veiligheidshelmen voor handarbeiders
