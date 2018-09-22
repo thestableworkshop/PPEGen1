@@ -1,0 +1,69 @@
+app    PPEGen1.l.de     =  Persönliche Schutzausrüstung (allgemein)
+       author           =  thestableworkshop
+       description      =  V01
+       email            =  admin@thestableworkshop.co.uk
+       emphasis         =                                                                                                         15
+       icon             =  IMG_8161.jpg
+       logoText         =  PPEGen1, Coreliu
+       language         =  de
+
+photo  GenProtBoots     =  Allgemeine, allgemeine Arbeitsschutzstiefel
+       url              =  IMG_8161.jpg
+fact   GenProtBoots.1   =  Mehrzweckstiefel mit Stahlkappe
+fact   GenProtBoots.2   =  Allgemeine Arbeitsschuhe schützen die Füße vor Quetschungen
+
+photo  Trainers         =  Leichte Schutztrainer
+       url              =  IMG_8163.jpg
+fact   Trainers.1       =  Stahlkappe Trainer
+fact   Trainers.2       =  Schutztrainer für den Innenbereich
+
+photo  HiVisJacket      =  Gut sichtbare Bomberjacke für alle Wetterbedingungen
+       url              =  IMG_8166.jpg
+fact   HiVisJacket.1    =  Wasserdichte Jacken mit hoher Sichtbarkeit können bei schlechtem Licht gesehen werden
+fact   HiVisJacket.2    =  Bitte beachten Sie, dass Warnwesten den einschlägigen Gesundheits- und Sicherheitsrichtlinien entsprechen
+
+photo  RiggersBoots     =  Wasserdichte Riggerstiefel
+       url              =  IMG_8168.jpg
+fact   RiggersBoots.1   =  Heavy-Duty, Anti-Crush Riggers Stiefel
+fact   RiggersBoots.2   =  Stiefel für die Bodenarbeit und die Verlegung von Beton
+
+photo  BlackTrousers    =  Schwere Hosen
+       url              =  IMG_8165.jpg
+fact   BlackTrousers.1  =  Abriebfeste Hose
+fact   BlackTrousers.2  =  Schutzhose mit vielen Taschen
+
+photo  CreamGloves      =  Abriebfeste Lederhandschuhe
+       url              =  IMG_8200.jpg
+fact   CreamGloves.1    =  Strapazierfähige Handschuhe aus Leder
+fact   CreamGloves.2    =  Zum Heben von schweren und abrasiven Materialien
+
+photo  GreyGloves       =  Schützen Sie die Hände vor scharfen Werkzeugen und Materialien
+       url              =  IMG_8209.jpg
+fact   GreyGloves.1     =  Schnittfeste Handschuhe
+fact   GreyGloves.2     =  Schützen Sie die Hände vor der Einwirkung von flüssigen Chemikalien
+
+photo  DustMask         =  Staubmaske
+       url              =  IMG_8202.jpg
+fact   DustMask.1       =  Maske zum Schutz vor Partikeln
+fact   DustMask.2       =  Ausbildung zum Umgang mit Staubmasken
+fact   DustMask.3       =  Lungenschutz
+
+photo  EarDefender      =  Ohrschutz
+       url              =  IMG_8204.jpg
+fact   EarDefender.1    =  Schütze Ohren in lauten Umgebungen
+fact   EarDefender.2    =  Lärmschutz zur Verwendung mit Elektrowerkzeugen
+
+photo  Goggles          =  Augenschutz
+       url              =  IMG_8205.jpg
+fact   Goggles.1        =  Schutzbrillen stoppen Staub und Splitter
+fact   Goggles.2        =  Schutzbrillen stoppen ätzende Substanzen
+
+photo  Tabard           =  Gut sichtbarer Wappenrock
+       url              =  IMG_8208.jpg
+fact   Tabard.1         =  Über Kleidung getragen werden
+fact   Tabard.2         =  Leichte Sichtbarkeit tragen
+
+photo  HardHat          =  Kopfschutz
+       url              =  IMG_8262.jpg
+fact   HardHat.1        =  Alle Schutzhelme sind farblich gekennzeichnet
+fact   HardHat.2        =  In Großbritannien, gelbe Schutzhelme für Arbeiter
