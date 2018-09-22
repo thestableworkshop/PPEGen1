@@ -1,0 +1,69 @@
+app    PPEGen1.l.sv     =  Personlig skyddsutrustning (allmän)
+       author           =  thestableworkshop
+       description      =  V01
+       email            =  admin@thestableworkshop.co.uk
+       emphasis         =                                                                         15
+       icon             =  IMG_8161.jpg
+       logoText         =  PPEGen1, Coreliu
+       language         =  sv
+
+photo  GenProtBoots     =  Allmänna ändamål, allmänna arbetskläder
+       url              =  IMG_8161.jpg
+fact   GenProtBoots.1   =  Multi-purpose stövlar med ståltoppar
+fact   GenProtBoots.2   =  Allmänna arbetskläder skyddar fötterna från krossning
+
+photo  Trainers         =  Lätta skyddsutbildare
+       url              =  IMG_8163.jpg
+fact   Trainers.1       =  Ståltåckståg
+fact   Trainers.2       =  Skyddsutbildare för inomhusbruk
+
+photo  HiVisJacket      =  Bombarderjacka med hög synlighet
+       url              =  IMG_8166.jpg
+fact   HiVisJacket.1    =  Vattentäta högvisningsjackor kan ses i dåligt ljus
+fact   HiVisJacket.2    =  Kolla hi-vis jackor i enlighet med relevanta hälso- och säkerhetsdirektiv
+
+photo  RiggersBoots     =  Vattentäta riggers stövlar
+       url              =  IMG_8168.jpg
+fact   RiggersBoots.1   =  Tunga, anti-crush riggers stövlar
+fact   RiggersBoots.2   =  Stövlar för grundarbete och betongläggning
+
+photo  BlackTrousers    =  Tunga byxor
+       url              =  IMG_8165.jpg
+fact   BlackTrousers.1  =  Nötningsbeständiga byxor
+fact   BlackTrousers.2  =  Skyddande byxor med många fickor
+
+photo  CreamGloves      =  Läder anti-nötningshandskar
+       url              =  IMG_8200.jpg
+fact   CreamGloves.1    =  Tunga läderhandskar
+fact   CreamGloves.2    =  För att lyfta tunga och slipande material
+
+photo  GreyGloves       =  Skydda händerna mot skarpa verktyg och material
+       url              =  IMG_8209.jpg
+fact   GreyGloves.1     =  Skär resistenta handskar
+fact   GreyGloves.2     =  Skydda händerna mot exponering för flytande kemikalier
+
+photo  DustMask         =  Dammmask
+       url              =  IMG_8202.jpg
+fact   DustMask.1       =  Maskera för att skydda mot partiklar
+fact   DustMask.2       =  Få träning i hur man använder dammsmaskar
+fact   DustMask.3       =  Lungskydd
+
+photo  EarDefender      =  Öronskydd
+       url              =  IMG_8204.jpg
+fact   EarDefender.1    =  Skydda öronen i bullriga miljöer
+fact   EarDefender.2    =  Ljudskydd för användning med elverktyg
+
+photo  Goggles          =  Ögonskydd
+       url              =  IMG_8205.jpg
+fact   Goggles.1        =  Skyddsglasögon stoppar damm och splinter
+fact   Goggles.2        =  Skyddsglasögon stoppa frätande ämnen
+
+photo  Tabard           =  Högsiktig tabard
+       url              =  IMG_8208.jpg
+fact   Tabard.1         =  Att bäras över kläder
+fact   Tabard.2         =  Slitage på lätt sikt
+
+photo  HardHat          =  Huvudskydd
+       url              =  IMG_8262.jpg
+fact   HardHat.1        =  Alla hårda hattar är färgkodade
+fact   HardHat.2        =  I Storbritannien, gula hårda hattar för manliga arbetare
