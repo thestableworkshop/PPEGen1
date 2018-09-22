@@ -37,7 +37,7 @@ photo  CreamGloves      =  Skórzane rękawice przeciw ścieraniu
 fact   CreamGloves.1    =  Wytrzymałe skórzane rękawice budowlane
 fact   CreamGloves.2    =  Do podnoszenia ciężkich i ściernych materiałów
 
-photo  GreyGloves       =  Chroń ręce przed ostrymi narzędziami i materiałami
+photo  GreyGloves      =  Chroń ręce przed ostrymi narzędziami i materiałami
        url              =  IMG_8209.jpg
 fact   GreyGloves.1     =  Rękawice odporne na przecięcie
 fact   GreyGloves.2     =  Chroń dłonie przed kontaktem z ciekłymi chemikaliami
