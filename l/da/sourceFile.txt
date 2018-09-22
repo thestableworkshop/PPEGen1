@@ -1,0 +1,69 @@
+app    PPEGen1.l.da     =  Personlige værnemidler (generelt)
+       author           =  thestableworkshop
+       description      =  V01
+       email            =  admin@thestableworkshop.co.uk
+       emphasis         =                                                                                      15
+       icon             =  IMG_8161.jpg
+       logoText         =  PPEGen1, Coreliu
+       language         =  da
+
+photo  GenProtBoots     =  Generelle formål, generelle arbejdsbeskyttelses støvler
+       url              =  IMG_8161.jpg
+fact   GenProtBoots.1   =  Multi-purpose støvler med stål tå hætter
+fact   GenProtBoots.2   =  Generelle arbejdsstøvler beskytter fødderne mod knusning
+
+photo  Trainers         =  Lette beskyttende træner
+       url              =  IMG_8163.jpg
+fact   Trainers.1       =  Stål tå cap trænere
+fact   Trainers.2       =  Beskyttende træningsmaskiner til indendørs brug
+
+photo  HiVisJacket      =  Høj-synlighed alt-vejr bomber jakke
+       url              =  IMG_8166.jpg
+fact   HiVisJacket.1    =  Vandtæt højvisbarhedsjakker kan ses i dårligt lys
+fact   HiVisJacket.2    =  Check hi-vis jakker i overensstemmelse med relevante sundheds- og sikkerhedsdirektiver
+
+photo  RiggersBoots     =  Vandtætte riggers støvler
+       url              =  IMG_8168.jpg
+fact   RiggersBoots.1   =  Heavy-duty, anti-crush riggers støvler
+fact   RiggersBoots.2   =  Støvler til fundament og lægning af beton
+
+photo  BlackTrousers    =  Tunge bukser
+       url              =  IMG_8165.jpg
+fact   BlackTrousers.1  =  Slidbestandige bukser
+fact   BlackTrousers.2  =  Beskyttelsesbukser med mange lommer
+
+photo  CreamGloves      =  Læder anti-slidhandsker
+       url              =  IMG_8200.jpg
+fact   CreamGloves.1    =  Tunge læderkonstruktionshandsker
+fact   CreamGloves.2    =  Til løft af tunge og slibende materialer
+
+photo  GreyGloves       =  Beskyt hænderne mod skarpe værktøjer og materialer
+       url              =  IMG_8209.jpg
+fact   GreyGloves.1     =  Skære resistente handsker
+fact   GreyGloves.2     =  Beskyt hænder mod udsættelse for flydende kemikalier
+
+photo  DustMask         =  Støvmaske
+       url              =  IMG_8202.jpg
+fact   DustMask.1       =  Maske for at beskytte mod partikler
+fact   DustMask.2       =  Få træning i hvordan man bruger støvmasker
+fact   DustMask.3       =  Lungebeskyttelse
+
+photo  EarDefender      =  Ørebeskyttelse
+       url              =  IMG_8204.jpg
+fact   EarDefender.1    =  Beskyt ører i støjende omgivelser
+fact   EarDefender.2    =  Støjbeskyttelse til brug med elværktøj
+
+photo  Goggles          =  Øjenbeskyttelse
+       url              =  IMG_8205.jpg
+fact   Goggles.1        =  Beskyttelsesbriller stopper støv og splinter
+fact   Goggles.2        =  Beskyttelsesbriller stopper ætsende stoffer
+
+photo  Tabard           =  Højsigtbar tabard
+       url              =  IMG_8208.jpg
+fact   Tabard.1         =  At blive båret over tøj
+fact   Tabard.2         =  Slid på let sigtbarhed
+
+photo  HardHat          =  Hovedbeskyttelse
+       url              =  IMG_8262.jpg
+fact   HardHat.1        =  Alle hårde hatte er farvekodede
+fact   HardHat.2        =  I uk, gule hårde hatte til håndarbejdere
