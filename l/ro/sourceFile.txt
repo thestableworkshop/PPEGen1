@@ -1,0 +1,69 @@
+app    PPEGen1.l.ro     =  Echipament individual de protecție (general)
+       author           =  thestableworkshop
+       description      =  V01
+       email            =  admin@thestableworkshop.co.uk
+       emphasis         =                                                                                                      15
+       icon             =  IMG_8161.jpg
+       logoText         =  PPEGen1, Coreliu
+       language         =  ro
+
+photo  GenProtBoots     =  Scop general, cizme generale de protecție a muncii
+       url              =  IMG_8161.jpg
+fact   GenProtBoots.1   =  Ghete multifuncționale cu capace din oțel
+fact   GenProtBoots.2   =  Bocancii de protecție generală protejează picioarele de strivire
+
+photo  Trainers         =  Încălțăminte de protecție ușoară
+       url              =  IMG_8163.jpg
+fact   Trainers.1       =  Formatori de picior din oțel
+fact   Trainers.2       =  Trenajeri de protecție pentru uz intern
+
+photo  HiVisJacket      =  Vizibilitate jachetă bombardieră pentru toate condițiile meteorologice
+       url              =  IMG_8166.jpg
+fact   HiVisJacket.1    =  Impermeabile impermeabile de înaltă vestă pot fi văzute în lumină slabă
+fact   HiVisJacket.2    =  Verificați dacă jachetele hi-vis sunt conforme cu directivele relevante privind sănătatea și siguranța
+
+photo  RiggersBoots     =  Impermeabile riggers cizme
+       url              =  IMG_8168.jpg
+fact   RiggersBoots.1   =  Grele, anti-strivire cizme riggers
+fact   RiggersBoots.2   =  Cizme pentru lucrări de bază și beton
+
+photo  BlackTrousers    =  Pantaloni mari
+       url              =  IMG_8165.jpg
+fact   BlackTrousers.1  =  Pantalon rezistent la abraziune
+fact   BlackTrousers.2  =  Pantaloni de protecție cu multe buzunare
+
+photo  CreamGloves      =  Mănuși din piele anti-abraziune
+       url              =  IMG_8200.jpg
+fact   CreamGloves.1    =  Manusi de constructie din piele de mare capacitate
+fact   CreamGloves.2    =  Pentru ridicarea materialelor grele și abrazive
+
+photo  GreyGloves       =  Protejați mâinile de uneltele și materialele ascuțite
+       url              =  IMG_8209.jpg
+fact   GreyGloves.1     =  Mănuși rezistente la tăiere
+fact   GreyGloves.2     =  Protejați mâinile de expunerea la substanțe chimice lichide
+
+photo  DustMask         =  Masca de praf
+       url              =  IMG_8202.jpg
+fact   DustMask.1       =  Masca pentru a fi protejata de particule
+fact   DustMask.2       =  Instruiți cum să utilizați măștile de praf
+fact   DustMask.3       =  Protecția pulmonară
+
+photo  EarDefender      =  Protecția urechii
+       url              =  IMG_8204.jpg
+fact   EarDefender.1    =  Protejarea urechilor în medii zgomotoase
+fact   EarDefender.2    =  Protecția împotriva zgomotului pentru utilizarea cu scule electrice
+
+photo  Goggles          =  Protecția ochilor
+       url              =  IMG_8205.jpg
+fact   Goggles.1        =  Ochelarii opresc praful și așchii
+fact   Goggles.2        =  Ochelarii opresc substanțele corozive
+
+photo  Tabard           =  Vizibilitate mare
+       url              =  IMG_8208.jpg
+fact   Tabard.1         =  Să fie purtat peste haine
+fact   Tabard.2         =  Ușoară uzură de vizibilitate
+
+photo  HardHat          =  Protecția capului
+       url              =  IMG_8262.jpg
+fact   HardHat.1        =  Toate pălăriile dure sunt colorate
+fact   HardHat.2        =  În UK, pălării de culoare galbenă pentru muncitorii manuali
