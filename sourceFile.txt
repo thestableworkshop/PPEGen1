@@ -10,7 +10,7 @@ app    PPEGen1                      =  Personal Protective Equipment (General)
 photo  GenProtBoots                 =  General purpose, general labour protective boots                                                                       
        url                          =  IMG_8161.jpg                                                                                              
 fact   GenProtBoots.1               =  Multi-purpose boots with steel toe caps                                                                                      
-fact   GenProtBoots.2               =  General labouring boots protect feet from crush                                                                                                                                
+fact   GenProtBoots.2               =  General labour boots protect feet from crush                                                                                                                                
 
 Photo  Trainers                     = Light-weight protective trainers
        url                          = IMG_8163.jpg
