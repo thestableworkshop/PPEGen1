@@ -5,6 +5,7 @@ app    PPEGen1                      =  Personal Protective Equipment (General)
        emphasis                     =  15                                                                                               
        icon                         =  IMG_8161.jpg 
        logoText                     =  PPEGen1, Coreliu
+       musicSpeechVolume            =  201
        
        
 photo  GenProtBoots                 =  General purpose, general labour protective boots                                                                       
@@ -45,7 +46,7 @@ fact   GreyGloves.2                 = Protect hands from exposure to liquid chem
 photo  DustMask                     = Dust mask
        url                          = IMG_8202.jpg
 fact   DustMask.1                   = Mask to protect from particles
-fact   DustMask.2                   = Get training in how to use dust masks
+fact   DustMask.2                   = Ask for training in how to use dust masks
 fact   DustMask.3                   = Lung protection
 
 photo  EarDefender                  = Ear protection
@@ -66,7 +67,7 @@ fact   Tabard.2                     = Light-weight visibility wear
 photo  HardHat                      = Head protection
        url                          = IMG_8262.jpg
 fact   HardHat.1                    = All hard hats are colour-coded
-fact   HardHat.2                   = In UK, yellow hard hats for manual workers
+fact   HardHat.2                    = In UK, yellow hard hats for manual workers
 
 
    
