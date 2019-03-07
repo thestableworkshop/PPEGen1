@@ -5,7 +5,8 @@ app    PPEGen1                      =  Personal Protective Equipment (General)
        emphasis                     =  15                                                                                               
        icon                         =  IMG_8161.jpg 
        logoText                     =  PPEGen1, Coreliu
-       musicSpeechVolume            =  201
+       musicSpeechVolume            =  250
+       maxImages                    =  4
        
        
 photo  GenProtBoots                 =  General purpose, general labour protective boots                                                                       
